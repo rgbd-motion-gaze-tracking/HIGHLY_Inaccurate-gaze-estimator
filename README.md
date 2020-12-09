@@ -22,7 +22,7 @@ Note: We can obtain this value with the help of depth component from a RGBD came
 
 ## Gaze Estimation:
 <p align="center">
-  <img width="260" src="img/unnamed (1).png">
+  <img width="240" src="img/unnamed (1).png">
 </p>
 
 <p align="center">
